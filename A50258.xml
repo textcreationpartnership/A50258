@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An instrument from that little stone cut out of the mountain without hands, to help to break in pieces, that great image which Daniel mentions, Ch. 2. whose feet was part iron and part clay. Or, A few queries written to satisfie the chief preacher in the independent church in Bedford, who desired the author to write unto him, what proofs he had for a woman's speaking in the church He being concerned that so many of his hearers should leave him to go to hear Margaretti Everard declare what God had done for her soul, the 17th day of June last at my dwelling in Bedford. Published for the information of all professors in religion, that are part strong and part weak (as the feet of the said image) ... That they may no longer (like the harden'd Jews) expect another grace or saviour, (that is) a restranining grace that shall force them out of their sins. Poor hearts! who has taught you, that God will except of forc'd love, when men doth not esteem such love each to other. By William Mather, ... .</title>
+            <author>Mather, W. (William), fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50258</idno>
+            <idno type="STC">Wing M1284B</idno>
+            <idno type="STC">ESTC R221849</idno>
+            <idno type="EEBO-CITATION">99833097</idno>
+            <idno type="PROQUEST">99833097</idno>
+            <idno type="VID">37572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An instrument from that little stone cut out of the mountain without hands, to help to break in pieces, that great image which Daniel mentions, Ch. 2. whose feet was part iron and part clay. Or, A few queries written to satisfie the chief preacher in the independent church in Bedford, who desired the author to write unto him, what proofs he had for a woman's speaking in the church He being concerned that so many of his hearers should leave him to go to hear Margaretti Everard declare what God had done for her soul, the 17th day of June last at my dwelling in Bedford. Published for the information of all professors in religion, that are part strong and part weak (as the feet of the said image) ... That they may no longer (like the harden'd Jews) expect another grace or saviour, (that is) a restranining grace that shall force them out of their sins. Poor hearts! who has taught you, that God will except of forc'd love, when men doth not esteem such love each to other. By William Mather, ... .</title>
+                  <author>Mather, W. (William), fl. 1695.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sarah Howkins, in George-Yard in Lombard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the Freinds' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women and religion --  Early works to 1800.</term>
+               <term>Women --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37572:1" rendition="simple:additions"/>
+            <p>An Inſtrument From that little Stone cut out of the Mountain without hands, to help to break in Pieces, that Great Image which <hi>Daniel</hi> mentions, <hi>Ch.</hi> 2. whoſe Feet was <hi>part Iron and part Clay.</hi>
+            </p>
+            <p>OR, A few Queries written to ſatisfie the chief Preacher in the Inde<g ref="char:EOLhyphen"/>pendent Church in <hi>Bedford,</hi> who deſired the Author to write unto him, what Proofs he had for a Woman's ſpeaking in the Church. He being concerned that ſo many of his Hearers ſhould leave him to go to hear <hi>Margaretti Everard</hi> declare what God had done for her Soul, the <hi>17th</hi> day of <hi>June</hi> laſt at my dwelling in <hi>Bedford.</hi>
+            </p>
+            <p>Publiſhed for the Information of all Profeſſors in Religion, that are part ſtrong and part weak (as the feet of the ſaid Image) that is, part ſtrong in a good Belief of what Chriſt Jeſus in mer<g ref="char:EOLhyphen"/>cy ſuffered for all Mankind.</p>
+            <p>But weak in Faith, in not believing that Chriſt by his ſufferings purchaſed a meaſure of his grace in every Soul, that <hi>brings Sal<g ref="char:EOLhyphen"/>vation to as many as are faithfull thereto,</hi> Tit. 2.11.</p>
+            <p>That they may no longer (like the harden'd <hi>Jews</hi>) expect another Grace or Saviour, (that is) a reſtraining Grace that ſhall force them out of their Sins.</p>
+            <p>Poor Hearts! who has taught you, that God will except of forc'd Love, when Men doth not eſteem ſuch Love each to other.</p>
+            <p>By <hi>WILLIAM MATHER,</hi> A true Lover of every Soul.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sarah Howkins,</hi> in <hi>George-Yard</hi> in <hi>Lombard<g ref="char:EOLhyphen"/>ſtreet,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:37572:2"/>
+            <opener>
+               <salute>FRIEND.</salute>
+            </opener>
+            <p>WHereas, Thou bid me write unto thee, my proofs, for a Woman's ſpeaking in the Church; and becauſe Mens ſpeaking there, relates thereto, I ſhall add ſome<g ref="char:EOLhyphen"/>what of it alſo; therefore to ſatisfie thee (if I can,) I think beſt to do it by way of Query, (the fewer words) that I may give oc<g ref="char:EOLhyphen"/>caſion to none to ſay I go about to teach thee, who art a Teach<g ref="char:EOLhyphen"/>er to ſo many People.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <p n="1">1. Did St. <hi>Paul</hi> write, That a Woman ſhould not be permitted to ſpeak in the Church? Wilt thou not ſuppoſe, he meant the ſhould not ſpeak, ſo as to ask Queſtions to raiſe Diſputes? Thou wile ac<g ref="char:EOLhyphen"/>knowledge, ſhe ought to come to Church, and not learn only of her Husband at home? If not, how muſt the Widow do to learn? If it had been as thou ſuppoſes, That a Woman was not to ſpeak at all in the Church, <hi>Paul</hi> would not have ſaid, <hi>That <gap reason="illegible" resp="#UOM" extent="2 words">
+                                 <desc>〈◊◊〉</desc>
+                              </gap> -man,</hi> that <hi>prayeth</hi> or <hi>propheſieth with her head uncovered, <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> her head,</hi> 1 Cor. 11.5. And was not <hi>Phillip's</hi> ſour Daughters Propheteſſes, <hi>Acts</hi> 21.9. and wherein is the difference between Propheſying and Preaching?</p>
+                        <p n="2">2. Is it not recorded in the Book of Martyrs, that after <hi>William White,</hi> a Preacher, was burnt for the Truth, his Wife followed his Steps, fowing abroad the ſame Doctrine, confirmed many in Gods Truth, wherefore ſhe ſuffered much trouble and puniſhment, whe<g ref="char:EOLhyphen"/>ther or no, did the Church then do well to let her teach?</p>
+                        <p n="3">3. Doſt thou own the Church of <hi>England's</hi> Catechiſm, in which is written, <hi>That Baptiſm, and the Supper of the Lord are Signs of an inward and ſpiritual Grace?</hi> Now whether any in theſe days need to uſe the Signs that witneſs the Subſtance, (that is,) <hi>The In<g ref="char:EOLhyphen"/>ward</hi> and <hi>Spiritual Grace,</hi> to cleanſe their Souls from Sin. An<g ref="char:EOLhyphen"/>ſwer, yea or nay? Seeing <hi>this grace, that came by Jeſus Chriſt, brings Salvation to all that obey it,</hi> Tit. 2.11. 1 Cor. 12.7. Rom. 1.19.</p>
+                        <p n="4">4. Whether or no, may not a Woman as well as a Man declare in a Congregation, the Experiences ſhe has had of the power and virtue of this <hi>inward and ſpiritual Grace</hi> in her Soul, and how that by the alone help thereof, ſhe has forſaken the Devil and all his Works? If ſhe did not ſpeak this to people God would condemn
+<pb n="2" facs="tcp:37572:3"/>her. Do not Women ſpeak their Experiences in your Church and Sing<note n="*" place="margin">Then not always ſi<g ref="char:EOLhyphen"/>lent.</note>? Then Woman may ſpeak in the Church; and whe<g ref="char:EOLhyphen"/>ther <hi>mans wiſdom</hi> that preaches, be not the <hi>Woman,</hi> that ſhould not be permitted to teach in the Church, yea or nay, 1 <hi>Cor.</hi> 2.4.13.</p>
+                        <p n="5">5. Whether or no, are not both Men and Women, <hi>Intrudors</hi> that do teach in a Religious Meeting other things than what they experimentally witneſs of the work of this <hi>inward and ſpiritual grace</hi> in their Souls? Bring Scriptures only as a proof, when di<g ref="char:EOLhyphen"/>vinely inſpired, (by Gods grace) ſo to do; for <hi>Paul</hi> would preach, <hi>of what God had wrought in him,</hi> 2 Cor. 10.15. Rom. 2.21.</p>
+                        <p n="6">6. Doſt thou believe, that this <hi>inward and ſpiritual grace</hi> is a witneſs againſt all Sin, in every Soul, and that People now are to have no other Teacher in this the day of Chriſt's ſpiritual ap<g ref="char:EOLhyphen"/>pearance, or ſecond coming in Spirit to cleanſe the Soul from Sin, And that <hi>Man</hi> is no more to be accounted of, no further than to encourage others to come and obey Chriſt's Grace in them, <hi>a Tea<g ref="char:EOLhyphen"/>cher that cannot be removed into a corner,</hi> Iſa. 30.20. Joh. 6.45.</p>
+                        <p n="7">7. Doſt thou believe that this ſpiritual day of Grace is dawned? And that there are thouſands of Souls in this Nation, that do wit<g ref="char:EOLhyphen"/>neſs God's promiſe fulfilled in their Souls, (that is,) of <hi>teaching his people himſelf,</hi> Joe l 2.28. by his <hi>inward and ſpiritual grace;</hi> that <hi>they need not the teachings of Man</hi> (as many of us witneſs, 1 <hi>John</hi> 2.27.)<note place="margin">Peaiſed be the Lord for it.</note> Yet, it's a great comfort to us, to hear a Man or Woman declare what they know of God, and alſo to read in the holy Scri<g ref="char:EOLhyphen"/>ptures, the Saints Warfare and Experiences; though none of theſe things will do a Soul good, except he turn in his Mind, ſo as to obey this <hi>inward and ſpiritual grace:</hi> For nature is dark as to the things of God, almoſt as a Beaſt, without applying to God's Grace for help; the alone Armor of a Chriſtian to keep off the Darts of the Devil.</p>
+                        <p n="8">8. Didſt thou ever know a Man, that ſinned every day, and did believe he muſt do ſo as long as he lived, that ever turned one Soul to God,<note place="margin">We muſt ſin every day, ſaith this Prea<g ref="char:EOLhyphen"/>cher unto me, <hi>June 18.—94.</hi>
+                           </note> (that is) to obey <hi>God's grace faithfully?</hi> If thou didſt, Then one Sinner can convert another, and before a man is con<g ref="char:EOLhyphen"/>verted, he can ſtrengthen his Brethren; Is not this impoſſible?</p>
+                        <p n="9">9. Did not Jeſus come into the World as born of a Virgin to <hi>ſave all people from ſinning</hi> here, <hi>Matth.</hi> 1.21. If they will obey his Talent of <hi>Grace</hi> in them? and I alſo ask whether a man is any further ſaved by Chriſt, than he is ſaved from Sin? For if he is not ſanctified, or ſaved from committing of Sin, the fault is not
+<pb n="3" facs="tcp:37572:3"/>in God's Grace, which is always ready to give power to reſiſt all Temptations, except ſuch as have ſinned out their days.</p>
+                        <p n="10">10. Whether all that have a form of Godlineſs, and deny the power thereof, are not to be turned away from? And whether all thoſe that believe, <hi>that the inward and ſpiritual grace in all men,</hi> will not or has not power to cleanſe the Soul from Sin (if obeyed) do not deny the power of Godlineſs, and are yet in <hi>Babylon,</hi> Rev. 18.4.</p>
+                        <p n="11">11. Didſt not thou affirm to me, that the Light of Man in us was darkneſs, when it is a Light from Chriſt in the Soul, whereby the Soul may ſee its way to pleaſe God, <hi>John</hi> 1.4.? It is called alſo <hi>Grace, Spirit, Word in the heart, The anointing,</hi> &amp;c. 1 John 2.27. If thou hates this Light, thou hates Chriſt. lis true, that <hi>all hate the Light, that love their evil deeds,</hi> Joh. 3.19.20.21.</p>
+                        <p n="12">12. What Scripture-proof haſt thou for reading a line in verſe for the people to ſing? And whether people can ſing to the praiſe of God, whoſe Souls are not raiſed out of the Grave of Sin? See<g ref="char:EOLhyphen"/>ing the Apoſtle ſaith, <hi>If the dead riſe not, preaching is vain?</hi> And whether God is not as really worſhipped by praying by a Book, as ſinging by a Book.</p>
+                        <p n="13">13. What Scripture-proof haſt thou for taking a verſe in the Scripture, and ſtudying a long diſcourſe from it? And whether the peoples hearing ſuch long Sermons or Speeches be God's Wor<g ref="char:EOLhyphen"/>ſhip? And whether God can be worſhipped any where but in the Centre of the Soul? And whether Perſecutors or Informers could ever diſturb God's ſpiritual Worſhip? And whether the firſt that ſpeaks in the Church, <hi>is not to hold his peace, if any thing is revealed to another that ſits by, that he may ſpeak alſo,</hi> 1 Cor. 14.13?</p>
+                        <p n="14">14. Didſt not thou affirm to me, that there are Three perſons in Trinity or God-head? I hope thou wilt anſwer that with thy Scrpture-proofs, as the other above in Love, as in Love I write this at thy deſire.</p>
+                        <p>Concluding with this caution, <hi>That thou take heed, that thou ſpeaks no more evil of a people, that thou knoweſt not, (that is)</hi> The Chriſtian Quaker; <hi>becauſe I am ſure thou cauſt not know them, except the ſaid</hi> Inward and Spiritual Grace <hi>was thy only Teacher.</hi> Now, <hi>that it may be thy guide, that by it thou might be impowred to turn many to it, that thereby, they may receive ſtrength to walk in the path of righteouſneſs to pleaſe God, is the Prayer of him that loves all people.</hi>
+                        </p>
+                        <closer>
+                           <date>June 22. —94.</date>
+                           <signed>W. M.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="4" facs="tcp:37572:4"/>
+            <p>TO the Queries above, I do not hear that he intends me an anſwer in writing; the beſt anſwer I deſire is, That he make choice of Chriſt's <hi>inward and ſpiritual Grace,</hi> for his only Teacher, then may he be enabled to prevail with many of his hearers to obey the ſame. This indeed would be a happy day which I have long hoped for.</p>
+            <p>The truth is, ſince he had the Queries above, he has in his Pulpit adviſed his Hearers, <hi>To cleanſe their Souls from ſin:</hi> Alas! what doth that avail, together with his telling them of the Torments of Hell, except their minds are turned into the Centre of their Souls, there to Worſhip God, in his <hi>inward and ſpiritual Grace,</hi> for no<g ref="char:EOLhyphen"/>thing elſe can cleanſe their Souls from Sin, and make them be<g ref="char:EOLhyphen"/>come Worſhippers of God in Spirit and in Truth; ſilently wait<g ref="char:EOLhyphen"/>ing (out of their own thoughts:) A ſtrange thing to this Preacher, <hi>John</hi> 4. who has already derided waiting in ſilence upon God; for he can preach, pray and ſing when he will, contrary to the Primitive Chriſtians</p>
+            <p>One of this Preachers hearers (whom I ſent the Queries to him by) told me, he did believe he was not yet ſatisfied, that a Woman ſhould be permitted to ſpeak in the Church, cauſed me to add the Queries that follows, (otherwiſe I think I had writ no more) yet hoping he may turn in his mind to <hi>Chriſt's Grace</hi> in himſelf, ſo may he turn many to a righteous and holy Converſation; then will he ſhine as a bright Star in the Firmament of Truth; he ha<g ref="char:EOLhyphen"/>ving ſuch a fair opportunity to win Souls to God, (having ſuch a great number of Hearers.) Oh! happy is that man that turns one Soul to God that is) to obey Chriſt's <hi>inward and ſpiritual Grace faithfully! </hi>Oh! that God in mercy would be pleaſed to ſhew him in what he truſts, but God's time is the beſt time for <hi>him</hi> and the <hi>Turks</hi> and <hi>Jews</hi> to ſee their blindneſs: God's will be done.</p>
+            <p>Laſtly, God knows my heart, I do not write the following in Enmity to any Perſon or Perſons whatever, but only in what I can incline my Readers to chuſe God's Grace in themſelves to be their Armor to keep off the Snares of the Devil and develiſh Men.</p>
+            <p>And that none that reads theſe Lines, may any longer reject the Chief corner Stone, the ſaid <hi>Grace</hi> or <hi>Light</hi> in them, that beams <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Sun of righteouſneſs in their Souls, whereby they may
+<pb n="5" facs="tcp:37572:5"/>plainly ſee all the crooked by-paths of the World, the Fleſh and the Devil, that leads to everlaſting miſery after Death; and alſo may ſee by that Light from Chriſt in them, how to walk ſafely in the ſtrait and narrow, but delightfull Path, that leads to God's Kingdom to have a Life of endleſs Joy with God for ever, ſo be it, <hi>Amen.</hi>
+            </p>
+            <div type="part">
+               <head>The ſecond part of Queries: which, I hope, will fully ſatisfie this In<g ref="char:EOLhyphen"/>dependent Preacher, That a woman may ſpeak in the Church, when moved by <hi>God's Grace</hi> ſo to do.</head>
+               <p n="15">15. Haſt thou not read, that the ancient Jews was not for per<g ref="char:EOLhyphen"/>mitting Women and Children to ask Queſtions in the Church, and was not <hi>Paul</hi> of the ſame mind?</p>
+               <p n="16">16. Is not Male and Female all one in Chriſt, and whether any but Deceivers will limit God, that he ſhall not ſend a meſſage by a Woman.</p>
+               <p n="17">17. Did not God ſend a Woman among your perſecuting Bre<g ref="char:EOLhyphen"/>thren in <hi>New-England,</hi> with her face blackt, as a ſign to them for their wicked lives, that the Black-Pox ſhould come upon them, which accordingly came to paſs? <hi>See Geo. Keith</hi>'s Viſible Church in <hi>New-England.</hi>
+               </p>
+               <p n="18">18. Doſt thou believe that <hi>Paul</hi> ever forbid any Woman to ſpeak or teach in the Church, that was moved thereto by the Spirit of Chriſt? And whether a woman was not a fellow labourer with <hi>Paul</hi> in the work of the Goſpel?</p>
+               <p n="19">19. Whether <hi>Paul</hi> ever forbid any other women to ſpeak in the Church, except thoſe talkative women in the Church of <hi>Corinth,</hi> who troubled the Church with their unprofitable queſtions?</p>
+               <p n="20">20. Haſt thou not a ſtrong zeal againſt a womans preaching found Doctrine? I wiſh thy zeal was as ſtrong againſt thy women Hearers, who are now ſo ſtiff-necked as to carry the <hi>Devils Towers</hi> on their heads, whilſt thou art teaching them to leave pride: And the men that are ſo proud as to wear womens Hair that was bak't in Pyes to make it remain in Curles, and muſt be powder'd too. Is not this abomination? Look back to your anceſtors called <hi>Puri<g ref="char:EOLhyphen"/>tans,</hi> whoſe ſhort Locks, little Bands, and plain modeſt Apparel became a Croſs to the vain World? But you as well as all o<g ref="char:EOLhyphen"/>ther religious Profeſſions, have degenerated from their firſt Inno<g ref="char:EOLhyphen"/>cence; and how many of thy proud hearershaſt thou admoniſh<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:37572:6"/>for their pride at their own houſes, as is thy duty, if a true Preacher?</p>
+               <p n="21">21. Was not that woman that <hi>Jeſus</hi> met at <hi>Jacob's</hi> Well, <hi>Joh.</hi> 4. a Preacher, who declared to the men of the City, <hi>Come, ſee a man that hath told me all that ever I did, is not this the Chriſt?</hi> Can any man now preach better Doctrine? and was it not a woman that publiſhed Chriſt's Reſurrection?</p>
+               <p n="22">22. Did not <hi>Luther</hi> affirm, That every good Chriſtian, (not on<g ref="char:EOLhyphen"/>ly Men, but even Women alſo) is a Preacher?</p>
+               <p n="23">23. How dareſt thou preach againſt pride, when moſt of you ſeek as much as you can to promote pride; for do not you unco<g ref="char:EOLhyphen"/>ver your heads, bow and bend oftener to a fine long Tower or Top<g ref="char:EOLhyphen"/>knot, than to God? Doth not ſuch worſhipping Images make the proud hearts more puff't up with pride, making thoſe Idols deck themſelves the finer next time (if they can) that they may be the more worſhipped and bowed unto? You calling men frequently Sir, Sir, at every turn, to flatter them though mean in the world,) and the women Miſtreſſes to flatter, when you have read <hi>Joh.</hi> 5 44. <hi>How can you believe, that receive honour one of another?</hi> and againſt <hi>flattering</hi> Titles, <hi>Job</hi> 32.21, 22. 1 <hi>Theſſ.</hi> 2.5. And to call <hi>no man Maſter, that is not really your Maſter.</hi> But you can twiſt theſe Doctrines of Chriſt to ſerve ſelf-intereſt, as you do that Doctrine of not <hi>ſwearing at all,</hi> Matth. 5.34. James 5.12. and others, be<g ref="char:EOLhyphen"/>ing out of the true Faith, that's without <hi>reſpect of perſons,</hi> James 2.1, 2.</p>
+               <p n="24">24. Was <hi>Franciſcus Lambertus</hi> in the right or no, who writes, <q>But above all things be carefull thou follow not the manner of Hypocrites, who have written almoſt more by word, what they are to ſay, as if they were to repeat ſome Verſes upon a Theatre, have learned all their Preachings, as they do that act Tragedies (or Plays) and afterwards when they are in the place of Propheſying, pray the Lord to direct their Tongues, but in the mean time ſhutting up the way of the holy Spirit, they deter<g ref="char:EOLhyphen"/>mine to ſay nothing but what they have written. O unhappy kind of Prophets, yea, and truly curſed, which depend not up<g ref="char:EOLhyphen"/>on God's Spirit, but upon their own Writings or Meditations? Why prayeſt thou to the Lord, thou falſe Prophet, to give thee his holy Spirit, by which thou mayeſt ſpeak things profitable, and yet thou repelleſt the Spirit? Why preferreſt thou thy Meditation or Study to the Spirit of God? otherwiſe, why com<g ref="char:EOLhyphen"/>mitteſt
+<pb n="7" facs="tcp:37572:7"/>thou not thy ſelf to the Spirit. Again, (ſaith he) The Sheep of Chriſt ſeeketh nothing but the Voice of Chriſt, which he knoweth by the Holy Spirit, wherewith he is fill'd, he re<g ref="char:EOLhyphen"/>gards not learning Tongues (or Languages<note n="†" place="margin">To make a Miniſter, for that avails not.</note>) or any outward thing, ſo as therefore to believe this or that to be the Voice of Chriſt his true Shepherd, he knoweth that there is need of no other thing but the Teſtimony of God's Spirit, <hi>&amp;c. Tract.</hi> 5. Prophecy, <hi>Chap.</hi> 3.24.</q> And doth not Dr. <hi>Everard,</hi> an Inde<g ref="char:EOLhyphen"/>pendent, write <hi>the only method that holy Men of old obſerved, was to ſpeak as they were moved by the Holy Spirit?</hi>
+               </p>
+               <p n="25">25. Whether or no, are not ſuch Teachers groſs Hypocrites, that at the end of their Worſhip ſay to their Hearers, <hi>I commit you to God's Grace,</hi> when they intend no ſuch thing; for if their Hear<g ref="char:EOLhyphen"/>ers chuſe <hi>God's Grace</hi> in themſelves for their chief Guide and only Teacher, and by the help thereof come to forſake the Devil and all his Works, the Pride and Vanity of this wicked World, throw<g ref="char:EOLhyphen"/>ing by thoſe helliſh Towers from the Womens Heads? Theſe vain Teachers will be the firſt that will mock them, and it may be tell them, you are going to be a Quaker, and that they think is the odiouſeſt name they can give them; little conſidering what theſe Teachers forced poor Men and Women (calling them God<g ref="char:EOLhyphen"/>fathers and Godmothers) to Promiſe and Vow for Infants, that they ſhall forſake the Devil, and the Pomps and Vanities of this wicked World, which brings to a ſtate of perfection, and yet theſe Teachers will deny that Perfection is attainable on this ſide the Grave, contrary to Scripture, <hi>Matth.</hi> 5.48. and 11.29, 30. <hi>Joh.</hi> 1.8. <hi>Gen.</hi> 6.9. 1 <hi>Joh.</hi> 5.3. and 1.10.8.5. and 2.4. and 36. <hi>Rev.</hi> 22.14. <hi>Eph.</hi> 4.11, 12, 13.</p>
+               <p n="26">26. Is it not great Hypocriſy in thee, to bid thy Hearers when thou art in thy Pulpit, <hi>To cleanſe their Souls from Sin;</hi> and out of thy Pulpit ſay to me, We muſt ſin every day as long as we live? And alſo to tell them in thy Pulpit for Doctrine, <hi>The reaſon why ſo many die in ſin eternally, is becauſe they will;</hi> and at other times tell them, That a certain number of Souls are elected and the reſt reprobated to Eternity before they have done Good or Evil, (is not this Myſtery <hi>Babylon</hi> in one of her ſineſt dreſſes?) Alas! none are reprobated before they have acted much Evil; nor are Infants that know not Love, <hi>Rom.</hi> 4.15 and 5.13. as full of Sin, as a Toad is full of Poyſon, as a Member of thy Church ſaid in my hearing; The Election is in Chriſt the true Seed, and all that joyns
+<pb n="8" facs="tcp:37572:8"/>to him are entring into the Election, and continuing faithfull comes to be choſen.</p>
+               <p>The reprobate Seed is the Devil, who rules in the Hearts of wicked People that obey not Chriſt's Grace in them ſo, by a con<g ref="char:EOLhyphen"/>tinual Reſiſtance of the Reprooſs of God's Grace comes to be in a reprobate State.</p>
+               <p n="27">27. Has not many poor Souls been almoſt (or quite) diſtracted about, your Sin-pleading Notions, and the frothy Lives of too many of you, but moſt chiefly about a Notion you are ſaid to hold, <hi>That God bids men believe, and be ſaved, and not gives power to do ſo?</hi>
+               </p>
+               <p>And have you not ſaid to ſuch poor bewildered Souls, <hi>Your Diſtraction is in order to the work of God upon your Souls? fear not, if you die, you ſhall go to Heaven;</hi> for once in <hi>Grace ever in Grace,</hi> contrary to theſe Scriptures, <hi>Ezek.</hi> 18.26. <hi>Joh.</hi> 15.6. <hi>Rom.</hi> 11.20. 1 <hi>Cor.</hi> 9.27. 2 <hi>Pet.</hi> 1.10. <hi>Heb.</hi> 3.12, 13. and 4. 11. and 6. 4, 5, 6. and 12.15. 2 <hi>Tim.</hi> 4.3. and 4.10. and 2.17, 18. 1 <hi>Tim.</hi> 1.18, 19. and 4.1. 1 <hi>Theſſ.</hi> 3 5. 2 <hi>Pet.</hi> 2.14.13.18.22. And remember how by your judging young <hi>Whit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>man,</hi> late of <hi>Carding<g ref="char:EOLhyphen"/>ton,</hi> you brought into diſtraction. See ſomewhat thereof in p. 218. of the <hi>4th</hi> Edition of the <hi>Young-man's Companion.</hi>
+               </p>
+               <p n="28">28. Has not thoſe of thy Church loſt Chriſtian Charity, that ſaid (as I am informed) that if the Quakers ſhould have one Meet<g ref="char:EOLhyphen"/>ing in your Meeting-houſe (I once deſiring it one day when you might ſpare it,) <hi>They ſhould never after think to go into it again?</hi> Fie, fie, pray no more for the Converſion of the <hi>Jews</hi> and <hi>Turks,</hi> what would you have them to convert to? For what can they expect from you, that has ſo little Love for your Fellow-Chriſtians that truly worſhip the ſame God, as you ſay you do, owning Chriſt Jeſus, a Patron of Meekneſs and Lowlineſs, and that his Follow<g ref="char:EOLhyphen"/>ers ſhould be ſo.</p>
+               <p>But for brevity ſake I ſhall now paſs by ſeveral of your Actings; yet to a little mind you of your want of good example, in bringing Boys with you to the Meeting, and let them play at the Door in Sermon-time by making of Noiſes, throwing Hats at each other (with thy<note n="*" place="margin">He can<g ref="char:EOLhyphen"/>not be a true Tea<g ref="char:EOLhyphen"/>cher, that has no au<g ref="char:EOLhyphen"/>thority to rule his ouin Fami<g ref="char:EOLhyphen"/>ly well.</note> Be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rders) and into my Orchard adjoyming, and alſo throwing Stones into the middle of my Orchard to ſp<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> my Trees, that I verily believe the Boys have thrown Cart loads of Stones from your Meeting-yard into my Orchard within theſe 5 years laſt paſt, thy Hearers laughing or ſmiling to ſee them, and yet
+<pb n="9" facs="tcp:37572:8" rendition="simple:additions"/>you will order no man to keep good Orders in the time of your Worſhip, though the Magiſtrates have often told you of it; yea one of the Magiſtrates told me, that be ſaid to ſome of you, It was a ſhame you kept <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Diſcipline and that it was more like a Play-houſe, than a place of Religious Worſhip; yet though I have been often wronged by theſe things, I bear no Enmity to any of them.</p>
+               <p>Now conſidering that ſome of thoſe People that have ſeen the firſt part of the Queries in writing, begin to conſider that there's no true ſatisfection to the Soul in h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing man's wiſdom preach, <hi>Act.</hi> 2.4. 1 <hi>Cor.</hi> 1 17, 20, 21. and 2, 3, 4, 5. 2 <hi>Cor.</hi> 2.17. tho they have been learning of Man 30 or 40 years, and neglect the Teaching of Chriſt's <hi>inward <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> my heart to publicſh them in the fear of God and true Love to all; hoping they may be of ſome ſervice to theſe who have not yet cho<g ref="char:EOLhyphen"/>ſen Chriſt's <hi>inward and ſpiritual Grace</hi> for their Teacher.</p>
+               <p>To <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I am very ſenſible, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are a few <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hearts amongſt this People, whom my Soul dearly loves. I <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> after Righteouſneſs, that God might <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them therewith, and that Righteouſneſs might fill the <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>. Hearts of all Men and Women. Theſe, I ſay, truly loves all People, yea their very Enemies.</p>
+               <p>Theſe, and all ſuch as theſe, where-ever they are walking at preſent, (and of different Forms of Worſhip at this time) are of the true Seed of <hi>Sion,</hi> of whom glorious things are ſpoken of in the Holy Scripture, and which the Lord loves above all the Dwel<g ref="char:EOLhyphen"/>ings of <hi>Judah,</hi> above all the Out-works of formal ways of all Profeſſions, it's they that honour the God of Heaven, and maketh his Name to be loved in the Earth.</p>
+               <p>Theſe truly noble ſelf-denying Souls will not go to any place to preach before God has ſent them; and if ſent, will be of <hi>Paul</hi>'s mind, To work with their hands rather than to make the Goſpel changeable. And in the mind of <hi>Proſper,</hi> an ancient Proteſtant, who ſaith, <hi>That he that takes any thing for Preaching, and is able to live of himſelf, loth it not without Sin.</hi> Oh that many more might be raiſ'd up, that delights in a holy Converſation to pleaſe God, that the Name of the Lord may be magnified in the Earth, is the Prayer of</p>
+               <closer>
+                  <signed>William Mather.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="testimony">
+            <pb n="10" facs="tcp:37572:9" rendition="simple:additions"/>
+            <p>For theſe worthy and renowned Souls will not (to get Money for preaching) ſhut up the Kingdom of Heaven againſt Men, by telling them, (as too many Teachers do now) <hi>That the ſmall Ta<g ref="char:EOLhyphen"/>lent of Grace, that troubles you in your Conſcience when you do evil, is not the Key to God's Kingdom.</hi>
+            </p>
+            <div type="testimony_proper">
+               <head>A Teſtimony.</head>
+               <p>SELDEN, <hi>the greateſt Scholar and Antiquary of his time, one who had taken a diligent Survey of what Knowledge was conſide<g ref="char:EOLhyphen"/>rable amongſt the</hi> Jews, Heathens <hi>and</hi> Chriſtians; <hi>at laſt profeſ<g ref="char:EOLhyphen"/>ſeth this towards the end of his days, (in his Conference with Bi<g ref="char:EOLhyphen"/>ſhop</hi> Uſher,) That notwithſtanding he had been ſo laborious in his In<g ref="char:EOLhyphen"/>quiries, and curious in his Collections, and had poſſeſt himſelf of a Trea<g ref="char:EOLhyphen"/>ſure of Books and Manuſcripts in all ancient Subjects, yet he could reſt his Soul on none ſave the Scriptures; and above all, that paſſage lay moſt remarkable upon his Spirit, <hi>Tit. 2.11, 12, 13, 14, 15.</hi> For the <hi>Grace</hi> of <hi>God</hi> that bringeth Salvation, hath appeared to <hi>all men,</hi> Teaching us, that denying ungodlineſs and worldly luſts we ſhould live ſoberly, righteouſly, and godly in this preſent world, looking for the bleſ<g ref="char:EOLhyphen"/>ſed hope, and the glorious appearing of the great God, and our Saviour Jeſus Chriſt, who gave himſelf for us, that he might reedem us from all iniquity, and purifie unto himſelf a peculiar people, zealous of good works. Theſe things ſpeak and exhort, and rebuke with all authority. <hi>See</hi> W. P. <hi>No Croſs, no Crown,</hi> p. <hi>388. and the Character of a true Chriſtian, in</hi> p. <hi>54. in my Young Man's Companion.</hi>
+               </p>
+               <closer>
+                  <dateline>BEDFORD,
+<date>
+                        <hi>Aug. 20. —94.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
